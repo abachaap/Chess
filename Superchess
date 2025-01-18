@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Câu Lạc Bộ Cờ Vua</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: '#eof7fa';
+            color: #333;
+        }
+
+        header {
+            background-color: #000000 ;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            background-color: #333;
+            overflow: hidden;
+        }
+
+        nav ul li {
+            float: left;
+        }
+
+        nav ul li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+         
+          nav ul li a:hover {
+            background-color: #111
+       }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        section img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+
+        footer {
+            background-color: #000000;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1> Welcome To ChessClub</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">Giới Thiệu</a></li>
+            <li><a href="#activities">Hoạt Động</a></li>
+            <li><a href="#join">Tham Gia</a></li>
+            <li><a href="#contact">Liên Hệ</a></li>
+            <li><a href="#bonus">bonus</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <h2>Giới Thiệu</h2>
+        <p>Câu lạc bộ cờ vua của chúng tôi là nơi hội tụ của những người có đam mê học hỏi và yêu thích bộ môn cờ vua, từ những người mới tập chơi đến các kì thủ hàng đầu vũ trụ.</p>
+ <img src="https://i.imgur.com/EqUuCGF.png" alt="Câu lạc bộ cờ vua">
+    </section>
+    <section id="activities">
+        <h2>Hoạt Động</h2>
+        <p>Chúng tôi  luôn luôn duy trì và thường xuyên tổ chức các buổu tập luyện hay  các giải đấu nội bộ với độ chuyên môn đạt mức cao, và hơn hết tham gia các giải đấu cấp trái đất.</p>
+ <img src="https://i.imgur.com/H4XJRIN.jpeg" alt="Giải đấu cờ vua">
+    </section>
+    <section id="join">
+        <h2>Tham Gia</h2>
+        <p>Nếu bạn yêu thích cờ vua và muốn tham gia, hãy  đến đăng ký tại lớp12a3  hoặc liên hệ với chúng tôi qua email.</p>
+        <img src="https://i.imgur.com/eM1YdAZ.png" alt="Tham gia câu lạc bộ" >
+    </section>
+    <section id="contact">
+        <h2>Liên Hệ</h2>
+        <p>Email: nambui482@gmail.com</p>
+        <p>Điện thoại: 0793634572</p>
+        <img src="https://i.imgur.com/lyOaFLq.jpeg " alt="Liên hệ câu lạc bộ" >
+    </section>
+<section id="bonus">
+         <h2>bonus</h2>
+          <p>Nếu bạn là một người mong muốn vào Clb nhưng hành trang chưa cho phép thì đây là thứ dành cho bạn!</p>
+<a href=https://m.youtube.com/watch?v=jT_AeMzuhxA&pp=ygU9aMaw4bubbmcgZOG6q24gY2jGoWkgY-G7nSB2dWEgY2hvIG5nxrDhu51pIG3hu5tpIGLhuq90IMSR4bqndQ%3D%3D " target="_blank">video hướng dẫn chơi cờ vua</a>
+<p>hihi</p>
+</section>
+    <footer>
+        <p>&copy; 2025 QUÉO QUEO QUÈO </p>
+    </footer>
+</body>
+</html>
